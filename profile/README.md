@@ -1,11 +1,13 @@
 # nxtgo (next go)
 
-writting better Golang utilities. :D
+writing better golang utilities. :D
 
-anyone is free to join, if you'd like to join us, please let me know via email. <3
+nxtgo is a small project built around the idea of making go development smoother and more enjoyable. we create free as in freedom, simple, practical tools and libraries that help you write cleaner code without overcomplicating things.
+
+if you’d like to be part of it, reach out. <3
 
 ## contact
 
-reach me (elisiei) via email at `yehorovye(at)disroot(dot)org`
+reach me (elisiei) via email at `yehorovye(at)disroot(dot)org`.
 
-join our [discord server](https://discord.gg/h35cWb4yMk)
+join our [discord server](https://discord.gg/h35cWb4yMk).
