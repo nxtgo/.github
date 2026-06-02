@@ -1,8 +1,10 @@
-# formerly "nxtgo"!
+# ungo
 
-# we moved our org, we are now at [codeberg.org/ungo](https://codeberg.org/ungo)
+> formerly "nxtgo".
 
-this org will be used for mirrors.
+## welcome
+
+this github org holds the mirrors for the [ungo](https://codeberg.org/ungo) codeberg repos.
 
 ## contact
 
